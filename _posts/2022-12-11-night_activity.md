@@ -5,8 +5,6 @@ categories: ["Releases"]
 tags: ["Album"]
 ---
 
-# Night Activity
-
 The album "Night Activity", is now out!
 
 > [Listen on Spotify](https://open.spotify.com/album/07eYe4SCW4A7GcrItmIfWF?si=z07rR5MiTAKBfUNQfnVM8Q)
