@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+The music of Nezeky (Jeron Aldaron Lau), is primarily experimental and
+electronic, and incorporates elements of many genres including video game music,
+neo-classical, pop, and industrial.
